@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742193311590",
+    "project_id": "hackathon-cb88d",
+    "storage_bucket": "hackathon-cb88d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742193311590:android:cfdb93f8b628465fc4e2a7",
+        "android_client_info": {
+          "package_name": "com.example.hacakthon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjDiSj6iFXoubVs29h64llrm0I7aPSg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
